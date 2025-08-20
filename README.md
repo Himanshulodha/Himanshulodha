@@ -16,12 +16,11 @@ Email Me 👉 ✉️ **Himanshulodha3302@gmail.com** For Collaboration/Project o
 ![](https://nirzak-streak-stats.vercel.app/?user=Himanshulodha&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshulodha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanshulodha&theme=blueberry&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himanshulodha&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Himanshulodha&theme=blueberry&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Himanshulodha&icon=0&color=1)](https://visitcount.itsvg.in)
 
