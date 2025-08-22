@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **Himanshulodha3302@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently learning:** Python || AI Applications
+- 🔭 **I’m currently learning:** Data Science and Machine Learning.
 
 
 ## 🌐 Socials:
