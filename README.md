@@ -1,9 +1,10 @@
 # 💫 Hi 👋, I'm Himanshu Lodha
-**A passionate AI Engineer || Data Scientist Enthusiast**
+
+About Me: **Data Scientist and AI Enthusiast. Strong skills in Python, Numpy, Pandas, Seaborn, Matplotlib scikit-learn, TensorFlow, NLP, Data Analysis and Data Analytics. Passionate about Generative AI, data-driven solutions, and solving real-world problems through intelligent systems.**
 
 Email Me 👉 ✉️ **Himanshulodha3302@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently learning:** Data Science and Machine Learning.
+- 🔭 **I’m currently learning:** Python || LLM || Data Science.
 
 
 ## 🌐 Socials:
@@ -18,6 +19,3 @@ Email Me 👉 ✉️ **Himanshulodha3302@gmail.com** For Collaboration/Project o
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himanshulodha&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
-
-
- GPRM ( https://gprm.itsvg.in ) -->
