@@ -19,9 +19,5 @@ Email Me 👉 ✉️ **Himanshulodha3302@gmail.com** For Collaboration/Project o
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himanshulodha&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanshulodha&theme=blueberry&no-frame=false&no-bg=true&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=Himanshulodha&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
