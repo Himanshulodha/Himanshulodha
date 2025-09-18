@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Himanshu Lodha
 
-About Me: **Data Scientist and AI Enthusiast. Strong skills in Python, Numpy, Pandas, Seaborn, Matplotlib scikit-learn, TensorFlow, NLP, Data Analysis and Data Analytics. Passionate about Generative AI, data-driven solutions, and solving real-world problems through intelligent systems.**
+🚀 About Me: **Data Scientist and AI Enthusiast and I love building intelligent systems and clean, production-ready code.. Strong skills in Python, Numpy, Pandas, Seaborn, Matplotlib scikit-learn, TensorFlow, NLP, Data Analysis and Data Analytics. Passionate about Generative AI, data-driven solutions, and solving real-world problems through intelligent systems.**
 
 Email Me 👉 ✉️ **Himanshulodha3302@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently learning:** Python || LLM || Data Science.
+- 🔭 **I’m currently learning:** LLM || Langchain || Generative AI.
 
 
 ## 🌐 Socials:
