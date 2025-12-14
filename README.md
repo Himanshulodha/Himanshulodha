@@ -4,7 +4,7 @@
 
 Email Me 👉 ✉️ **Himanshulodha3302@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently learning:** LLM || Langchain || Generative AI.
+- 🔭 **I’m currently learning:** Python || Cloud || LLM || Langchain || Generative AI.
 
 
 ## 🌐 Socials:
